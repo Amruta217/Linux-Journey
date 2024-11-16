@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.nav {
+    background-color: #2C3E50;
+    padding: 8px;
+
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+.container {
+    background-color: #18BC9C;
+    padding: 12vh 2vw;
+}
+
+.peng-container {
+    display: flex;
+    justify-content: center;
+}
+
+.container h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.peng-container img {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.container2 p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: #333333; */
+    color: #999;
+    margin-top: 30px;
+}
+
+/* .btn{
+    background-color: white;
+    padding: 10px 200px;
+    border-radius: 5px;
+   cursor: pointer;
+ border-color: #333333;
+  color: #333333;  
+} */
+#email {
+    padding: 7px 100px;
+    
+}
+
+hr {
+    border-top: 1px solid #eeeeee;
+}
+
+/*.btn:hover{
+    background-color: #218838;*/
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #333333;
+    color: #333333;
+}
+
+.btn2 {
+    background-color: #18BC9C;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+hr {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+
+.container4 p {
+    color: #999;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+
+}
+
+/* .container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.getstart-main {
+    display: flex;
+    /* text-align: center; */
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+    /* justify-content: flex-start; */
+    margin: 70px;
+}
+
+.getstart:hover {
+    background: #18BC9C;
+}
+
+.getstart {
+    width: 250px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.getstart img {
+    border-radius: 60%;
+}
+
+
+/* Journeyman starts */
+
+.set h3 {
+    color: #999;
+    font-size: 30px;
+    text-align: center;    
+}
+
+
+
+/* Networking Nomad start */
+
+.column h3 {
+    color: #999;
+    font-size: 30px;
+    text-align: center;
+}
